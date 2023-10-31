@@ -1,4 +1,4 @@
-""""""
+"""Cannon Whitney"""
 
 
 def encoder(password):
@@ -34,7 +34,7 @@ def main():
             print('Your password has been encoded and stored!')
 
         elif menu_option == '2':
-            pass
+            print(f'decoded password: {decoder(password)}')
 
         elif menu_option == '3':
             quit()
