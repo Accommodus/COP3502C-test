@@ -1,4 +1,4 @@
-"""Cannon Whitney"""
+"""Cannon Whitney 1"""
 
 
 def encoder(password):
