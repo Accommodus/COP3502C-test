@@ -15,7 +15,6 @@ def encoder(password):
 
 
 def decoder(password):
-    def decoder(password):
     for i in password:
         i = int(i) - 3
         nPass = str(i)
